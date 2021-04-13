@@ -1,0 +1,4 @@
+﻿  SortingVisualizer.cpp
+C:\Users\HSJ\Desktop\Study\C++\SortingVisualizer\SortingVisualizer\SortingVisualizer.cpp(23,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\HSJ\Desktop\Study\C++\SortingVisualizer\SortingVisualizer\SortingVisualizer.cpp(23,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  SortingVisualizer.vcxproj -> C:\Users\HSJ\Desktop\Study\C++\SortingVisualizer\Debug\SortingVisualizer.exe
